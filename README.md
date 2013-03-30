@@ -1,7 +1,8 @@
 matplotlib_gfs
 ==============
 
-Matplotlib and the NOAA's Global Forecasting System. Here's a rendering of the ipynb http://nbviewer.ipython.org/urls/github.com/labeneator/matplotlib_gfs/raw/master/noaa_gfs_ipython_session_for_sfluxgrb_dataset.ipynb#
+Matplotlib and the NOAA's Global Forecasting System. Here's a rendering of the ipython note book http://nbviewer.ipython.org/urls/github.com/labeneator/matplotlib_gfs/raw/master/noaa_gfs_ipython_session_for_sfluxgrb_dataset.ipynb#
+
 A quick intro on how to play around with GFS data using matplotlib.
 Ideas come from:
 * http://braz.blogspot.com/2009/12/r-for-global-climate-forecasting.html
